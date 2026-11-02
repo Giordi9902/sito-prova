@@ -1,0 +1,6 @@
+# fine riga LF per tutti i file di testo, qualunque sistema usi chi li salva
+* text=auto eol=lf
+
+# le immagini sono binarie: niente conversioni, niente diff riga per riga
+*.png binary
+*.jpg binary
