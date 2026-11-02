@@ -1,0 +1,8 @@
+# appunti personali
+appunti.txt
+
+# file generati dai programmi
+*.log
+
+# impostazioni dell'editor
+.vscode/
